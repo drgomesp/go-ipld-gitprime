@@ -1,3 +1,3 @@
-# go-ipldgitplus
+# go-ipld-gitprime
 
 Something goes here
